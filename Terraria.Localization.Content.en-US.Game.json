@@ -1,7 +1,7 @@
 {
 	"WorldGeneration": {
 		"OceanSand":  "Generating ocean sand",
-		"WavyCaves": "Generating wavy caves"
+		"WavyCaves": "Generating wavy cave"
 	},
 	"LoadingTips_Default": {
 		"1": "Other players can loot your chests! If you don't trust them, use a Safe or Piggy Bank; those items have storage that is exclusive to each player.",
