@@ -2,7 +2,7 @@
 	"CommonItemTooltip": {
 		"UsesLife": "Uses {0} life",
 		"UsesMana": "Uses {0} mana",
-		"RestoresLife": "Restores {0} life",
+		"RestoresLife": "Restores {0} ",
 		"RestoresMana": "Restores {0} mana",
 		"MinuteDuration": "{0} minute duration",
 		"SecondDuration": "{0} second duration",
